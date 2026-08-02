@@ -1,0 +1,13 @@
+# robots.txt for Nguyen Van Hieu Portfolio
+
+User-agent: *
+Allow: /
+Disallow: /sass/
+Disallow: /js/
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://nguyenvanhieu.netlify.app/sitemap.xml
+
+# Crawl-delay (optional, in seconds)
+Crawl-delay: 10
